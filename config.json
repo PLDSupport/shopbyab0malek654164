@@ -1,0 +1,119 @@
+{
+
+  "server":"https://discord.gg/8gYcdzgv",
+    "mainGuildID": "1185910920334032956",
+    "bot id": "1179380397780520980",
+
+  "member_id": "1185911120649789470",
+
+    "prefix":"+",
+
+    "registerGlobal": true,
+
+    "ownerID": ["612734610417385472"],  
+
+  "color": "#B7B7B7",
+  "title": "Best Host S",
+  "foot": "Best Host S",
+
+     "channels": 
+["1185911464482058250",
+"1185911470253416540",
+"1185911471880802384",
+"1185911477736046682",
+"1185911478784639036",
+"1185911485176746045",
+"1185911486514733097",
+"1185911487701721198",
+"1185911494504890458",
+"1185911495847059597",
+"1185911502104956968",
+"1185911503463911455",
+"1185911509667299388",
+"1185911510749433967",
+"1185911511835754586",
+"1185911517913297010"],
+
+"supportid":"1185911053935194152",
+"high": "1185911041595547689",
+
+"logbuy": "1185912094252597268", 
+  "log_rep" : "1185912094252597268",
+"buycategoryId" : "1185911181110681681", 
+
+"transfer": "1155225793111265492", 
+
+  "probotid": "282859044593598464",
+
+  "lineurl" : "https://cdn.discordapp.com/attachments/1185657301806358538/1185932073073123418/rider_2.png?ex=6591684f&is=657ef34f&hm=9bc801ced6b13a95e23718395574e274303ca87ea8aa13893f99ed24ce7e76c1&",
+
+  "angelroleid": "1185911089565806622", 
+  "greatroleid": "1185911090610176050", 
+  "perfectroleid": "1185911091486806126",
+  "excellentroleid": "1185911092925440020", 
+  "goodroleid": "1185911093537808387", 
+  "designroleid": "1185911094745768038", 
+  "developerroleid": "1185911095752405003", 
+
+
+  "angelroleprice": "1",
+  "greatroleprice": "1", 
+  "perfectroleprice": "1", 
+  "excellentroleprice": "1", 
+  "goodroleprice": "1", 
+  "designerroleprice" :"1", 
+  "developerroleprice": "1", 
+    "angelinfo": "60,000 Credit",
+  "greatinfo": "50,000 Credit", 
+  "perfectinfo": "55,000 Credit", 
+  "excellentinfo": "45,000 Credit", 
+  "goodinfo": "40,000 Credit", 
+  "designerinfo" :"35,000 Credit", 
+  "developerinfo": "35,000 Credit", 
+
+"viproleid": "1185911087342825564", 
+"asiaroleid": "1157352604033089648", 
+"legendroleid": "1145664732221669388",
+
+  "viproleprice": "1", 
+  "asiaprice": "1", 
+  "legendprice": "1", 
+
+  "vipinfo": "100,000 Credit", 
+  "asiainfo": "350,000 Credit", 
+  "legendinfo": "30", 
+
+"parent": "1185911181110681681", 
+  "privaterole": "1185911088613691412",
+
+  "roombuy": "1", 
+  "roomrenewal":"1", 
+
+  "roombuyinfo": "70,000 Credit", 
+  "roomrenewalinfo":"35,000 Credit", 
+
+
+  "shareroom": "1185911440754880574",
+  "everyonepricesh": "1", 
+  "hereshareprice": "1",
+
+  "everyoneinfo": "40,000 Credit", 
+  "hereinfo": "20,000 Credit",
+
+  "adsroom" : "1185911386702876742",
+  "giftroom": "1185911247334555698",
+  "parentad" : "1185911147044552754",
+
+"nomads": "1",
+"hereads" : "1",
+"everyoneads" : "1",
+"giftad" : "1",
+"roomad": "1",
+"roomadg": "1",
+"nomadsinfo": "40,000 Credit",
+"hereadsinfo" : "65,000 Credit",
+"everyoneadsinfo" : "100,000 Credit",
+"giftadinfo" : "200,000 Credit",
+"roomadinfo": "300,000 Credit",
+"roomadginfo": "500,000 Credit"
+}
